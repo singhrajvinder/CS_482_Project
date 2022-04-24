@@ -31,7 +31,7 @@ We start this project off by first downloading the dataset provided. here: https
 
 ## Choose Data
 
-After downlaoding the Data wwe downlaoded we will chose the specific data we will use to train our model. In our cause we use data from stage 2
+After downlaoding the Data choose the specific data that will be use to train our model. In our cause we use data from stage 2
 1. Go through the data files   
 2. combine data into one file that you want to use for training 
 3. choose the amount of time to train the model  
