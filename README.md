@@ -21,4 +21,4 @@ Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 
   -  We expect to have probabilities for each seed and compare the two teams by their predicted probability and pick a winner for that game. The results will be compared to winners in real life and see if we predicted the correct winner.
 
-# setup/ Documentation 
+# Setup/Documentation 
