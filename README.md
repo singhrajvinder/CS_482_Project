@@ -1,5 +1,5 @@
 # [Final Reprot](https://github.com/singhrajvinder/CS_482_Project/blob/main/CS482%20Final%20Report.md)
-# [Colab file](https://colab.research.google.com/drive/1t2DyR4lmrAAhQYaHFrOnUApvVARC2f3H?usp=sharing)
+# [Colab File](https://colab.research.google.com/drive/1t2DyR4lmrAAhQYaHFrOnUApvVARC2f3H?usp=sharing)
 # [CS482 Project Proposal](https://www.kaggle.com/competitions/mens-march-mania-2022/overview/description)
 Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 
