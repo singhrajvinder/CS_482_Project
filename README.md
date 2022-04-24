@@ -22,3 +22,22 @@ Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
   -  We expect to have probabilities for each seed and compare the two teams by their predicted probability and pick a winner for that game. The results will be compared to winners in real life and see if we predicted the correct winner.
 
 # Setup/Documentation 
+
+## Start 
+
+We start this project off by first downloading the dataset provided. here: https://www.kaggle.com/competitions/mens-march-mania-2022/overview/description
+
+## Choose Data
+
+After downlaoding the Data wwe downlaoded we will chose the specific data we will use to train our model. In our cause we use data from stage 2
+1. Go through the data files   
+2. combine data into one file that you want to use for training 
+3. choose the amount of time to train the model  
+4. run the model and dont let the notbook close or termanate the cell or you will have to restart
+
+## Implementing Jax and getting the top 5 teams 
+
+We Implemented MSE USing Jax in the model to increase the accuracy. 
+1. Implement Jax API MSE into model  
+2. We will now get the average of all the teams predictions 
+3. Now we sort the average in decending order and get the top 5 
