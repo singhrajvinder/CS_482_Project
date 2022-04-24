@@ -1,3 +1,5 @@
+# [Final Reprot](https://github.com/singhrajvinder/CS_482_Project/blob/main/CS482%20Final%20Report.md)
+# [Colab file](https://colab.research.google.com/drive/1t2DyR4lmrAAhQYaHFrOnUApvVARC2f3H?usp=sharing)
 # [CS482 Project Proposal](https://www.kaggle.com/competitions/mens-march-mania-2022/overview/description)
 Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 
@@ -20,8 +22,6 @@ Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 5. How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
   -  We expect to have probabilities for each seed and compare the two teams by their predicted probability and pick a winner for that game. The results will be compared to winners in real life and see if we predicted the correct winner.
-
-# [Final Reprot]()
 
 # Setup/Documentation 
 
