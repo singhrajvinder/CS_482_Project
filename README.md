@@ -1,4 +1,4 @@
-# CS482 Project Proposal
+# [CS482 Project Proposal](https://www.kaggle.com/competitions/mens-march-mania-2022/overview/description)
 Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 
 1. What is the problem that you will be investigating? Why is it interesting?
@@ -21,4 +21,4 @@ Submitted by: Muhab Elgamal, Christian Saliski, Rajvinder Singh
 
   -  We expect to have probabilities for each seed and compare the two teams by their predicted probability and pick a winner for that game. The results will be compared to winners in real life and see if we predicted the correct winner.
 
-https://www.kaggle.com/competitions/mens-march-mania-2022/overview/description
+#setup/ Documentation 
